@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2011.4.27)  15 JUN 2011 21:18
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2011.4.27)  15 JUN 2011 21:51
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -86,14 +86,14 @@ LaTeX Font Info:    ... okay on input line 3.
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(28.45274pt, 557.38951pt, 28.45274pt)
-* v-part:(T,H,B)=(68.28644pt, 658.39711pt, 68.28644pt)
+* v-part:(T,H,B)=(42.67912pt, 709.61174pt, 42.67912pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
 * \textwidth=557.38951pt
-* \textheight=658.39711pt
+* \textheight=709.61174pt
 * \oddsidemargin=-43.81725pt
 * \evensidemargin=-43.81725pt
-* \topmargin=-40.98355pt
+* \topmargin=-66.59087pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -195,7 +195,7 @@ fonts/cm/cmr10.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/amsfo
 nts/cm/cmr7.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmsy10.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmti10.pfb>
-Output written on sheetalResume.pdf (1 page, 87741 bytes).
+Output written on sheetalResume.pdf (1 page, 87738 bytes).
 PDF statistics:
  32 PDF objects out of 1000 (max. 8388607)
  22 compressed objects within 1 object stream
