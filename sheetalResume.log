@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2011.4.27)  15 JUN 2011 21:51
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2011.4.27)  16 JUN 2011 09:24
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -64,18 +64,18 @@ Package ifvtex Info: VTeX not detected.
 (./sheetalResume.aux)
 \openout1 = `sheetalResume.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -112,18 +112,13 @@ LaTeX Font Info:    ... okay on input line 3.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 14--16
+Underfull \hbox (badness 10000) in paragraph at lines 16--18
 \OT1/cmr/m/n/10 Worked on a re-port-ing and an-a-lyt-ics sys-tem us-ing
  []
 
 
-Underfull \hbox (badness 4096) in paragraph at lines 14--16
+Underfull \hbox (badness 4096) in paragraph at lines 16--18
 \OT1/cmr/m/n/10 Lift+Scala+MongoDB, to pro-vide re-port-ing fea-tures for
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 20--21
-
  []
 
 
@@ -137,42 +132,47 @@ Underfull \hbox (badness 10000) in paragraph at lines 24--25
  []
 
 
-Underfull \hbox (badness 2080) in paragraph at lines 32--33
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+
+ []
+
+
+Underfull \hbox (badness 2080) in paragraph at lines 34--35
 []\OT1/cmr/m/n/10 Developed a web crawler to search sci-ence jour-nals for
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 42.
+(Font)              <7> on input line 44.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 42.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 51.
+(Font)              <5> on input line 44.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 53.
 (/usr/local/texlive/2010/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 51.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 53.
 
-Underfull \hbox (badness 2932) in paragraph at lines 51--52
+Underfull \hbox (badness 2932) in paragraph at lines 53--54
 []\OT1/cmr/bx/n/10 Languages/DBs: \OT1/cmr/m/n/10 Php, Scala, Ruby, Java,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 51--52
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
 \OT1/cmr/m/n/10 C, Javascript(+Ajax), Mon-goDB, MySQL,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 63--64
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 65--69
+Underfull \hbox (badness 10000) in paragraph at lines 67--71
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--75
+Underfull \hbox (badness 10000) in paragraph at lines 73--77
 
  []
 
@@ -183,11 +183,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 71--75
 Here is how much of TeX's memory you used:
  741 strings out of 493747
  10178 string characters out of 3143546
- 68244 words of memory out of 3000000
+ 68245 words of memory out of 3000000
  4096 multiletter control sequences out of 15000+200000
  5811 words of font info for 21 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 24i,9n,31p,317b,217s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 24i,9n,31p,320b,217s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2010/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmbx10.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/am
 sfonts/cm/cmbx12.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/ams
@@ -195,7 +195,7 @@ fonts/cm/cmr10.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/amsfo
 nts/cm/cmr7.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmsy10.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmti10.pfb>
-Output written on sheetalResume.pdf (1 page, 87738 bytes).
+Output written on sheetalResume.pdf (1 page, 87706 bytes).
 PDF statistics:
  32 PDF objects out of 1000 (max. 8388607)
  22 compressed objects within 1 object stream
