@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2011.4.27)  15 JUN 2011 01:25
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2011.4.27)  15 JUN 2011 21:18
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -86,14 +86,14 @@ LaTeX Font Info:    ... okay on input line 3.
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(28.45274pt, 557.38951pt, 28.45274pt)
-* v-part:(T,H,B)=(28.45274pt, 738.0645pt, 28.45274pt)
+* v-part:(T,H,B)=(68.28644pt, 658.39711pt, 68.28644pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
 * \textwidth=557.38951pt
-* \textheight=738.0645pt
+* \textheight=658.39711pt
 * \oddsidemargin=-43.81725pt
 * \evensidemargin=-43.81725pt
-* \topmargin=-80.81725pt
+* \topmargin=-40.98355pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -112,77 +112,67 @@ LaTeX Font Info:    ... okay on input line 3.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 16--18
+Underfull \hbox (badness 10000) in paragraph at lines 14--16
 \OT1/cmr/m/n/10 Worked on a re-port-ing and an-a-lyt-ics sys-tem us-ing
  []
 
 
-Underfull \hbox (badness 4096) in paragraph at lines 16--18
+Underfull \hbox (badness 4096) in paragraph at lines 14--16
 \OT1/cmr/m/n/10 Lift+Scala+MongoDB, to pro-vide re-port-ing fea-tures for
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 23--24
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 25--26
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 27--28
+Underfull \hbox (badness 10000) in paragraph at lines 24--25
 
  []
 
 
-Underfull \hbox (badness 2080) in paragraph at lines 36--38
+Underfull \hbox (badness 2080) in paragraph at lines 32--33
 []\OT1/cmr/m/n/10 Developed a web crawler to search sci-ence jour-nals for
  []
 
-
-Underfull \hbox (badness 1127) in paragraph at lines 36--38
-\OT1/cmr/m/n/10 manuscripts/abstracts con-tain-ing search terms us-ing Java.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 36--38
-
- []
-
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 48.
+(Font)              <7> on input line 42.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 48.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 57.
+(Font)              <5> on input line 42.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 51.
 (/usr/local/texlive/2010/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 57.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 51.
 
-Underfull \hbox (badness 2932) in paragraph at lines 57--58
+Underfull \hbox (badness 2932) in paragraph at lines 51--52
 []\OT1/cmr/bx/n/10 Languages/DBs: \OT1/cmr/m/n/10 Php, Scala, Ruby, Java,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 57--58
+Underfull \hbox (badness 10000) in paragraph at lines 51--52
 \OT1/cmr/m/n/10 C, Javascript(+Ajax), Mon-goDB, MySQL,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 69--70
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--69
 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 71--75
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--81
 
  []
 
@@ -193,11 +183,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 77--81
 Here is how much of TeX's memory you used:
  741 strings out of 493747
  10178 string characters out of 3143546
- 69242 words of memory out of 3000000
+ 68244 words of memory out of 3000000
  4096 multiletter control sequences out of 15000+200000
  5811 words of font info for 21 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 24i,9n,31p,247b,217s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 24i,9n,31p,317b,217s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2010/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmbx10.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/am
 sfonts/cm/cmbx12.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/ams
@@ -205,7 +195,7 @@ fonts/cm/cmr10.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/amsfo
 nts/cm/cmr7.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmsy10.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmti10.pfb>
-Output written on sheetalResume.pdf (1 page, 88423 bytes).
+Output written on sheetalResume.pdf (1 page, 87741 bytes).
 PDF statistics:
  32 PDF objects out of 1000 (max. 8388607)
  22 compressed objects within 1 object stream
